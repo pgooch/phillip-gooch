@@ -1,0 +1,172 @@
+* {
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+/*
+	The core page layout bits and full page styles
+*/
+body {
+	font-family:"Helvetica Neue", "Helvetica Neue Light", HelveticaNeue-Light, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:1.5em;
+	background:#fafafa;
+	background-image: url(wood.png);
+    background-size: 256px 256px;
+    background-attachment: fixed;
+}
+.page {
+	max-width:8.5in;
+	-webkit-box-shadow:0 0 10px rgba(0,0,0,0.3);
+	box-shadow:0 0 10px rgba(0,0,0,0.3);
+	border:1px solid #f6f6f6;
+	background:#fff;
+	margin:1.5em auto 2.5em auto;
+	padding:0.75in;
+}
+a {
+	color:inherit;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration: underline;
+}
+h2{
+	font-family: 'Playfair Display', serif;
+	padding-top:.5em;
+}
+@media screen and (max-width: 500px) {
+	body{
+		font-size:11pt;
+	}
+	.page {
+		padding:0.5in;
+		}
+}
+@media screen and (max-width: 415px) {
+	body {
+		margin:0;
+	}
+	.page {
+		padding:0.25in;
+		margin:0;
+	}
+}
+
+
+/*
+	Header Parts
+*/
+.header{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row-reverse;
+}
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size:4.5em;
+	text-align: right;
+	margin:0;
+	flex-grow: 1;
+	padding-top:.4em;
+    letter-spacing: -.03em;
+}
+ol.reach-me{
+	list-style: none;
+	margin:0;
+	padding:0;
+	width:2.25in;
+}
+ol.reach-me > li{
+	text-align: left;
+}
+svg.icon{
+	width: 18px;
+	height: 18px;
+	vertical-align: middle;
+}
+@media screen and (max-width: 824px) {
+	.header{
+		display: block;
+	}
+	h1{
+		text-align: center;
+		line-height: 1em;
+		padding-bottom:.4em;
+        letter-spacing: -.02em;
+	}
+	ol.reach-me{
+		width:100%;
+	}
+	ol.reach-me > li{
+		text-align: center;
+	}
+}
+
+/*
+	Skills Section
+*/
+ul {
+	padding-left:0;
+	list-style-position:outside;
+	margin:0;
+	margin-left: 1.25em;
+}
+
+/*
+	Experience Section
+*/
+.job,.school {
+	margin-bottom:.75em;
+}
+
+.job .title {
+	font-weight:200;
+}
+
+.job .company {
+	font-weight:700;
+}
+
+.job .employed,.school .location {
+	font-size:.8em;
+	float:right;
+    font-weight: 900;
+}
+
+.job p,.school .graduation-details {
+	font-size:.95em;
+	line-height:1.5em;
+	display:block;
+	margin:.25em .5em;
+}
+.job ul{
+	margin-left:1.5em;
+}
+
+/*
+	For Printing, in case anybody need to print a resume these days
+*/
+@media print{
+	body {
+		background:transparent;
+	}
+
+	.print-break{
+		display: block;
+		height:1.5em;
+	}
+
+	.page {
+		max-width:100%;
+		-webkit-box-shadow:none;
+		box-shadow:none;
+		font-size:11.75pt;
+		border:none;
+		background:transparent;
+		margin:auto;
+		padding:1em;
+		padding-bottom:0;
+	}
+}

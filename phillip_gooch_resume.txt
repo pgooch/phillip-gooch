@@ -1,0 +1,58 @@
+Phillip Gooch
+Phone: 425-268-0162
+Email: phillip.gooch@gmail.com
+LinkedIn: linkedin.com/in/pgooch
+GitHub: github.com/pgooch
+
+Web Application Development
+
+- In-depth knowledge of HTML, CSS/Sass, Javascript, PHP, node.js, and MySQL with additional experience in Python and C/C++.
+- Used various libraries including React, Highcharts, p5js, and jQuery.
+- Database design, creation, backup, conversion, and restoration.
+- Mobile first responsive site design, development and compatibility testing for both scripting and layout across devices and browsers.
+- WordPress plugin and theme development, publication, and maintenance.
+- Developed fully documented, re-usable, and expandable code managed through SVN and Git version control.
+- Rapidly adapted projects based on client, designer, and user feedback.
+- Adjusted site layouts and structure based on analytics and SEO strategies.
+- Built secure applications for client confidentiality and GDPR compliance.
+- Worked on and shipped various projects from simple blogs, large online stores with fulfillment generation, and internal tracking and support tools.
+
+Work Experience
+
+Leafly; Software Engineer 2019 - 2020
+Worked on a company rebranding project incorperating designs from an outside consulting firm and feedback from user testing to create a new strain finding experience backed by scientific data and user submitted content.
+Built a playlist system working closely wit the API team to build out the necessary endpoints pairing it with a WordPress plugin for content to manage and update lists.
+- Updated React applications to implemnt new functionality and adjust existing features based on user feedback and SEO analysis.
+- Crafted a new custom WordPress theme to match the new company branding standards while supporting numerous existing legacy plugins time for a brand refresh.
+- Worked closely with the content team to create new featres and re-implement existing features that were initially created without the proper rescources.
+- Planned out feature work to upgrade an thw outdated WordPress site to the newest current version with plans to convert it into a headless CMS.
+
+TUNE; Web Developer 2015 - 2017
+Built WordPress support sites and continued to maintain them throughout product changes. Maintained branding and company visual style guidlines, updated theme as the guidelines evolved over time.
+- Merged two Zendesk support accounts into a single WordPress site maintaining categorization to provide a single gateway for both clients.
+- Created new features to improving upon and streamline writing, updating, searching, and article categorization.
+- Developed custom API builder for multiple different API systems allowing clients and the support team to test API calls and build new calls.
+- Helped designed new features and templates with marketing for the main company website to ensure release before company event deadline.
+
+American Marriage Ministries; Lead Programmer 2013 - 2015
+Worked as the project head for an expansive site redesign moving from a previously built WordPress site to a new custom site.
+- Converted WordPress based online store to a custom storefront while maintaining previous orders for record keeping.
+- Built a custom fulfillment system that generates documents and paperwork depending on items ordered and options selected.
+- Tested site for across numerous browsers and devices for a consistent experience across all platforms.
+
+PGI Auto; Lead Web Developer 2011 - 2013
+Built WordPress sites for dealerships before changing focus to plug-in development in order to provide a better use experience. Eventually created and was in charge of maintaining an employee portal and Craigslist posting tool.
+- Designed themes and developed plugins used in numerous clients WordPress websites.
+- Created an employee portal that allowed teams to log hours, plan visits and callbacks.
+- Built an ad posting and analytics tool to automate posting of ads to Craigslist and kept it up to date across numerous Craigslist changes.
+
+Future Ranking; Web Developer 2010 - 2011
+Worked on converting design comps into osCommerce and WordPress plugins while working on client training and reporting tools. Continued work as an on-call designer when the need arose.
+- Themed and modified osCommerce sites to meet client needs.
+- Built a client training portal that allows account representatives to monitor client progress, set personal goals, and share private documents in a secure manner.
+- Facilitated large scale server migration and began work on WordPress based osCommerce replacement with the end goal of migrating all clients.
+
+Education
+Associate of Technical Arts (ATA) for Multimedia Web Design
+Associate of Fine Arts (AFA) for Digital Illustration 
+- Graduated with Honors from Everett Community College
