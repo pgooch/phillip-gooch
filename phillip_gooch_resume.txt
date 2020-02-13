@@ -20,12 +20,12 @@ Web Application Development
 Work Experience
 
 Leafly; Software Engineer 2019 - 2020
-Worked on a company rebranding project incorperating designs from an outside consulting firm and feedback from user testing to create a new strain finding experience backed by scientific data and user submitted content.
+Worked on a company rebranding project incorporating designs from an outside consulting firm and feedback from user testing to create a new strain finding experience backed by scientific data and user submitted content.
 Built a playlist system working closely wit the API team to build out the necessary endpoints pairing it with a WordPress plugin for content to manage and update lists.
-- Updated React applications to implemnt new functionality and adjust existing features based on user feedback and SEO analysis.
+- Updated React applications to implement new functionality and adjust existing features based on user feedback and SEO analysis.
 - Crafted a new custom WordPress theme to match the new company branding standards while supporting numerous existing legacy plugins time for a brand refresh.
-- Worked closely with the content team to create new featres and re-implement existing features that were initially created without the proper rescources.
-- Planned out feature work to upgrade an thw outdated WordPress site to the newest current version with plans to convert it into a headless CMS.
+- Worked closely with the content team to create new features and re-implement existing features that were initially created without the proper resources.
+- Planned out feature work to upgrade an the outdated WordPress site to the newest current version with plans to convert it into a headless CMS.
 
 TUNE; Web Developer 2015 - 2017
 Built WordPress support sites and continued to maintain them throughout product changes. Maintained branding and company visual style guidlines, updated theme as the guidelines evolved over time.
